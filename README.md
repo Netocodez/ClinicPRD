@@ -35,7 +35,7 @@ This form helps software developers, freelancers, and agencies gather detailed p
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/project-requirements-form.git
+git clone https://github.com/Netocodez/ClinicPRD.git
 ```
 
 ---
